@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+.center-image {
+    display: flex;
+    justify-content: center;
+}
+
+.custom-background {
+    background-image: url('img/cool-blue-gradient.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.center-image {
+    display: flex;
+    justify-content: center;
+}
+
+.back2top {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+}
